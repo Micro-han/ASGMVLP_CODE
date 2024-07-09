@@ -6,7 +6,7 @@
 
 The official code for **Anatomical Structure-Guided Medical Vision-Language Pre-training**.
 
-- **[2024.06] ** ASGMVLP is accepted by MICCAI 2024 🎉!
+- **[2024.06]** ASGMVLP is accepted by MICCAI 2024 🎉!
 
 ## Installation
 ```
